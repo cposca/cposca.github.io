@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cposca.github.io/static/css/main.34de6062.chunk.css",
+    "main.js": "/cposca.github.io/static/js/main.63ea64f3.chunk.js",
+    "main.js.map": "/cposca.github.io/static/js/main.63ea64f3.chunk.js.map",
+    "runtime-main.js": "/cposca.github.io/static/js/runtime-main.b0732e70.js",
+    "runtime-main.js.map": "/cposca.github.io/static/js/runtime-main.b0732e70.js.map",
+    "static/css/2.aef8ad04.chunk.css": "/cposca.github.io/static/css/2.aef8ad04.chunk.css",
+    "static/js/2.bdf43cc1.chunk.js": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js",
+    "static/js/2.bdf43cc1.chunk.js.map": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js.map",
+    "index.html": "/cposca.github.io/index.html",
+    "precache-manifest.77dec8e5538f73c9cbc7bbb74b20f615.js": "/cposca.github.io/precache-manifest.77dec8e5538f73c9cbc7bbb74b20f615.js",
+    "service-worker.js": "/cposca.github.io/service-worker.js",
+    "static/css/2.aef8ad04.chunk.css.map": "/cposca.github.io/static/css/2.aef8ad04.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/cposca.github.io/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.bdf43cc1.chunk.js.LICENSE": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js.LICENSE",
+    "static/media/avatar.png": "/cposca.github.io/static/media/avatar.07df0f91.png",
+    "static/media/background.png": "/cposca.github.io/static/media/background.b3f8a2ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0732e70.js",
+    "static/css/2.aef8ad04.chunk.css",
+    "static/js/2.bdf43cc1.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.63ea64f3.chunk.js"
+  ]
+}

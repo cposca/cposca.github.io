@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cposca.github.io/precache-manifest.77dec8e5538f73c9cbc7bbb74b20f615.js"
+  "/cposca.github.io/precache-manifest.b30df5982a222a3841881efb3d950d10.js"
 );
 
 self.addEventListener('message', (event) => {

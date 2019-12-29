@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cposca.github.io/static/css/main.34de6062.chunk.css",
-    "main.js": "/cposca.github.io/static/js/main.17af5105.chunk.js",
-    "main.js.map": "/cposca.github.io/static/js/main.17af5105.chunk.js.map",
+    "main.js": "/cposca.github.io/static/js/main.d2ecc036.chunk.js",
+    "main.js.map": "/cposca.github.io/static/js/main.d2ecc036.chunk.js.map",
     "runtime-main.js": "/cposca.github.io/static/js/runtime-main.b0732e70.js",
     "runtime-main.js.map": "/cposca.github.io/static/js/runtime-main.b0732e70.js.map",
     "static/css/2.aef8ad04.chunk.css": "/cposca.github.io/static/css/2.aef8ad04.chunk.css",
     "static/js/2.bdf43cc1.chunk.js": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js",
     "static/js/2.bdf43cc1.chunk.js.map": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js.map",
     "index.html": "/cposca.github.io/index.html",
-    "precache-manifest.9e108727c01be126b1f0803e50375fca.js": "/cposca.github.io/precache-manifest.9e108727c01be126b1f0803e50375fca.js",
+    "precache-manifest.4d51200dc284c6c9f9909e63af23ab7d.js": "/cposca.github.io/precache-manifest.4d51200dc284c6c9f9909e63af23ab7d.js",
     "service-worker.js": "/cposca.github.io/service-worker.js",
     "static/css/2.aef8ad04.chunk.css.map": "/cposca.github.io/static/css/2.aef8ad04.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/cposca.github.io/static/css/main.34de6062.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.aef8ad04.chunk.css",
     "static/js/2.bdf43cc1.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.17af5105.chunk.js"
+    "static/js/main.d2ecc036.chunk.js"
   ]
 }

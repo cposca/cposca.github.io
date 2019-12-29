@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd89fa3e31ddef8012a9d43bfbe97dc7",
+    "revision": "557cfe37bc4580f1f5f624c87b630ccc",
     "url": "/cposca.github.io/index.html"
   },
   {

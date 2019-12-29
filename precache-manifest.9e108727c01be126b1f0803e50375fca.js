@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1a6c5a93d5ab8034a1c7347a2e8fab4",
+    "revision": "b7876cab74406d2612a3b4f1946a4b18",
     "url": "/cposca.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cposca.github.io/static/css/2.aef8ad04.chunk.css"
   },
   {
-    "revision": "aa001cc5211740c8340d",
+    "revision": "c88c63323fbbbde6c32d",
     "url": "/cposca.github.io/static/css/main.34de6062.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cposca.github.io/static/js/2.bdf43cc1.chunk.js.LICENSE"
   },
   {
-    "revision": "aa001cc5211740c8340d",
-    "url": "/cposca.github.io/static/js/main.efd6f58f.chunk.js"
+    "revision": "c88c63323fbbbde6c32d",
+    "url": "/cposca.github.io/static/js/main.17af5105.chunk.js"
   },
   {
     "revision": "732bc146b8c5ec52aabd",
